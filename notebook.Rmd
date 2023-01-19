@@ -1,0 +1,34 @@
+---
+title: "DATA534 Progress Notebook"
+author: "Edmundson, Jonah"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true 
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+As per the project requirements:
+
+> Document and report daily your job in your own github repo for the assignment
+
+### Prior to Jan 17
+
+Set up CI with GitHub Actions. 
+
+
+### Jan 17
+
+Stayed up way too late trying to figure out valid ways to query the API. Found and read documentation. 
+
+
+### Jan 19
+
+Lots of setup today. I created a whole bunch of files (ie. `code_of_conduct.md`, `contributions_workflow.md`, `LISENCE`, etc.) and organized the repo. Read tutorials on how to make a package in R. I also started working on the `README.md` file. Talked with the group about branches and merge conflicts. 
+
