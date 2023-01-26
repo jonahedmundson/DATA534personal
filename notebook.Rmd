@@ -32,3 +32,26 @@ Stayed up way too late trying to figure out valid ways to query the API. Found a
 
 Lots of setup today. I created a whole bunch of files (ie. `code_of_conduct.md`, `contributions_workflow.md`, `LISENCE`, etc.) and organized the repo. Read tutorials on how to make a package in R. I also started working on the `README.md` file. Talked with the group about branches and merge conflicts. 
 
+
+### Jan 20
+
+Spent 2 hours troubleshooting unit testing and code coverage in R, since I haven't done this before. 
+
+
+### Jan 24 
+
+Spent the class time working on retrieving the country codes using the API. 
+
+### Jan 25
+
+Worked for 2.5 hours figuring out how to parse HTML/XML in R. Made a function that webscrapes search function to return first page of product names and numbers for a certain search term. 
+
+Worked for another hour later this same day to make some more functions that prompt the user (very pretty). Also spent time trying to figure out how to properly install our own package in order to use/test the functions I made.
+
+
+### Jan 26
+
+Spent the class time (90 mins) writing unit tests and doing error handling for the functions I wrote on previous days.
+
+
+
