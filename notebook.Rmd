@@ -53,5 +53,9 @@ Worked for another hour later this same day to make some more functions that pro
 
 Spent the class time (90 mins) writing unit tests and doing error handling for the functions I wrote on previous days.
 
+On this same day, I also spent another 90 mins during lab figuring out vignettes, as well as doing some editing of the functions. 
+
+
+
 
 
