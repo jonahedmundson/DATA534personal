@@ -56,6 +56,12 @@ Spent the class time (90 mins) writing unit tests and doing error handling for t
 On this same day, I also spent another 90 mins during lab figuring out vignettes, as well as doing some editing of the functions. 
 
 
+### Jan 30
+
+45 mins adding inline comments, some more error handling, and merging with main! :)
+
+
+
 
 
 
